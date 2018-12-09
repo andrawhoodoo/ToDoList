@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "Simple todo application.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.10.8",
+    "jquery": "^3.3.1",
+    "method-override": "^2.3.10",
+    "mongoose": "4.10.8",
+    "morgan": "^1.9.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotch-io/node-todo.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scotch-io/node-todo/issues"
+  },
+  "homepage": "https://github.com/scotch-io/node-todo#readme"
+}
